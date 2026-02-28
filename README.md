@@ -75,4 +75,4 @@ npm run dev
 
 ## Sitio Desplegado
 
-Accede a la aplicación en línea: [Budget Tracker Live](<deployment-url>)
+Accede a la aplicación en línea: [Budget Tracker Live](<https://neon-dasik-fbacd6.netlify.app/>)
